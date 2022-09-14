@@ -1,7 +1,16 @@
-# Welcome, stranger
-- 👋 Hi, I’m @sayakanikan / Irfan
-- 👀 I’m interested in web developing stuff
-- 🌱 I’m currently learning React JS, RESTful API, Laravel
+# Welcome 👽
+👋 Hi, I’m @sayakanikan / Irfan
+
+🎓 Undergraduate student in Dian Nuswantoro University
+
+👀 Interested in web developing stuff
+
+⛳️ Currently learning React JS, RESTful API, Laravel
+
+🧭 +62 / UTC+07:00
+
+
+<!--- # Another me 🎉--->
 
 <!---
 sayakanikan/sayakanikan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
