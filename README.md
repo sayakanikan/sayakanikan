@@ -1,9 +1,9 @@
 # <img src="https://cdn3.emoji.gg/emojis/8967-blob-cat-dance.gif" width="30px"> Happy to see you!
 
 <img align='right' src="https://media.giphy.com/media/ZmdErsWqppgMo/giphy.gif" width="330">
-Hi, I’m a undergraduate programming student from <b>Indonesia</b>
+Hi, I’m a undergraduate computer science student from <b>Indonesia</b>
 
-👀 Happy to learn any web developing stuff <br/> 💻 Javascript and PHP maniac <br/> ⛳️ Currently learning React JS, RESTful API, Laravel <br/> 🚀 Play bored games to boost mood <br/> 💪🏼📽 Sport and movie lover (sometimes) <br/> 🧭 +62 / UTC+07:00
+👀 Happy to learn any web developing stuff <br/> 💻 Javascript and PHP maniac <br/> ⛳️ Currently learning React JS, RESTful API, Laravel <br/> 🚀 Play bored games to boost mood <br/> 💪🏼📽 Sport and movie lover (sometimes) <br/> 🧭 +62 / UTC+07:00 /IDR
 <br/>
 
 ## <img src="https://cdn3.emoji.gg/emojis/4017-derpbounce.gif" width="30px"> Current Tech Stack
@@ -23,4 +23,4 @@ Hi, I’m a undergraduate programming student from <b>Indonesia</b>
 <a href="https://twitter.com/irfansy_ah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <br/>
 
-<!--- # Another me 🎉--->
+[![](https://visitcount.itsvg.in/api?id=sayakanikan&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
