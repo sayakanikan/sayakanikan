@@ -11,7 +11,7 @@ Hi, I’m a undergraduate computer science student from <b>Indonesia</b>
 <br/>
 
 ### <img src="https://cdn3.emoji.gg/emojis/1865-codercat.gif" width="30px"> Next stop
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 ## <img src="https://cdn3.emoji.gg/emojis/3379-rainbowsheeptrain.gif" width="30px"> Github Stats
 ![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayakanikan&show_icons=true&theme=radical)
