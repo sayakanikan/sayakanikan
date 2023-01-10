@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/ZmdErsWqppgMo/giphy.gif" width="330">
 Hi, I’m a undergraduate computer science student from <b>Indonesia</b>
 
-👀 Happy to learn any web developing stuff <br/> 💻 Javascript and PHP maniac <br/> ⛳️ Currently learning Node JS, Express JS, Redux <br/> 🚀 Play bored games to boost mood <br/> 💪🏼📽 Sport and movie lover (sometimes) <br/> 🧭 +62 / UTC+07:00 /IDR
+👀 Happy to learn any web developing stuff <br/> 💻 Javascript and PHP maniac <br/> ⛳️ Currently learning Node JS, Express JS, Redux <br/> 🚀 Play bored games to boost mood <br/> 💪🏼📽 Sport and movie addict (sometimes) <br/> 🧭 +62 / UTC+07:00 /IDR
 <br/>
 
 ## <img src="https://cdn3.emoji.gg/emojis/4017-derpbounce.gif" width="30px"> Current Tech Stack
